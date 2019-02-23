@@ -1,0 +1,12 @@
+*.log
+*.iml
+*.xml
+idea/**
+*.class
+*.jar
+.sass-cache/
+.DS_Store
+node_modules/**
+out/**
+prepros-6.config
+sass
