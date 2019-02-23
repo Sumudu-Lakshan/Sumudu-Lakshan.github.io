@@ -406,9 +406,9 @@ body.offcanvas {
 
   .dptns2{
     margin-top: 60px;
-    padding-left: 10px;
+    padding-left: 150px;
     margin-bottom: 60px;
-    text-align: center;
+    /* text-align: center; */
   }
 
   .skill-img {
